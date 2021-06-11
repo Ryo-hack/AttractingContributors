@@ -22,28 +22,13 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 
 # List of games
-
-BABA IS YOU
-
-
+* BABA IS YOU
 * Valorant
-
-
 * Garage
-
-
-Apex
-
-
-1. Tetris
-
-
-goat simulator
-
-
-Nier Automata
-
+* Apex
+* Tetris
+* goat simulator
+* Nier Automata
 * Final Fantasy VII: Remake
-- Console Romano（ローマの執政官）
-
-
+* Console Romano（ローマの執政官）
+* Among Us
