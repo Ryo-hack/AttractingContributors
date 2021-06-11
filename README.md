@@ -31,5 +31,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 * Nier Automata
 * Final Fantasy VII: Remake
 * Console Romano（ローマの執政官）
-
-
+* Among Us
